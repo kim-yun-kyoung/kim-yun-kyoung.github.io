@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "프론트엔드"
+title_separator          : "프론트엔드 공부를 시작하면서 정리해 나갈 블로그입니다."
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "프론트엔드"
-description              : "프론트엔드를 처음 공부하면서 정리해나갈 블로그 입니다."
+name                     : "애슐리 김"
+description              : "프론트엔드를 더 배우고자 하는 개발자입니다."
 url                      : "https://kim-yun-kyoung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
